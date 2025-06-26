@@ -6,7 +6,6 @@ This project presents a hybrid **text summarization system** that condenses leng
 
 ## 📁 Dataset
 
-- **Source**: [CNN/Daily Mail Dataset on Hugging Face](https://huggingface.co/datasets/cnn_dailymail)
 - The dataset contains over 300,000 news articles paired with human-written summaries, originally compiled for training and evaluating summarization models.
 
 ---
